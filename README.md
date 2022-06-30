@@ -1,2 +1,3 @@
 # Chinook-Analysis
-Answering Business questions using the sqlite chinook database
+Chinook is a sample databas available for SQL.This repository conatains the sample database used to answer certain business questions.
+
